@@ -6,6 +6,6 @@
 
 The Cloud device is a software simulation of a storage device. It has a basic protocol by which you communicate with it through a series of registers and data transfer region.
 
- LRU cache that caches blocks retrieved and written to the Cloud devices.It helps to speed up the processes.
+ LRU cache that caches blocks retrieved and written to the Cloud device.It helps to speed up the processes.
  
  It supports networking communication to a server program that implements the Cloud device.
